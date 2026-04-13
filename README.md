@@ -1,0 +1,1 @@
+# Mini-Project-Assignment-Smart-Document-Scanner-Quality-Analysis-System
